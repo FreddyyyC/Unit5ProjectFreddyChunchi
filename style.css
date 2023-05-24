@@ -1,0 +1,47 @@
+html, body {
+      font-family: 'Oswald', sans-serif;
+    background-color: #17d3ff;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+}
+
+.clock {
+    width: 500px;
+}
+
+p {
+    font-size: 40px;
+
+}
+
+h1 {
+    font-size: 70px;
+}
+
+h4 { font-size: 60px;
+   
+}
+
+button {
+    width: 300px;
+    height: 35px;
+}
+
+.title_img {
+   width: 750px;
+}
+.questions {
+  display: none;
+}
+.questions2 {
+  display:;
+}
+.result {
+  display:none; 
+}
+.Press {
+  font-size: 20px;
+}
